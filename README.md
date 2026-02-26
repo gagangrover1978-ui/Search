@@ -27,3 +27,6 @@ A front-end implementation of Google Search, Google Image Search, and Google Adv
 * **Modern Gradient Borders:** The "AI Mode" button features a sophisticated gradient border achieved through `background-clip` and `background-origin`.
 * **State Management:** Custom CSS for `:hover` and `:focus` states to provide immediate visual feedback.
 * **Autofill Fix:** Includes a `-webkit-autofill` override to maintain the integrity of the design of this website.
+
+## 🚀 How to Run
+Just go to ``gagangrover1978-ui.github.io/Search` and see the website live!
